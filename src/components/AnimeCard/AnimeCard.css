@@ -1,0 +1,14 @@
+.anime-item img {
+    display: block;
+    width: 100%;
+    border-radius: 0.5rem;
+    
+  }
+  
+  .anime-item h4{
+    text-align: center;
+  }
+  
+  .anime-item img:hover {
+    outline: auto;
+  }

@@ -1,0 +1,7 @@
+.app-header {
+    border-bottom: 1px solid gray;
+    height: 50 px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

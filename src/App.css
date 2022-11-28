@@ -1,0 +1,13 @@
+.app-grid {
+  display: grid;
+  grid-template-columns: 0.7fr 1fr;
+  gap: 16px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+}
+
+
+
+
